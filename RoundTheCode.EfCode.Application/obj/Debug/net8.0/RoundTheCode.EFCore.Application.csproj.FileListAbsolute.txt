@@ -1,0 +1,15 @@
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\bin\Debug\net8.0\RoundTheCode.EFCore.Application.deps.json
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\bin\Debug\net8.0\RoundTheCode.EFCore.Application.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\bin\Debug\net8.0\RoundTheCode.EFCore.Application.pdb
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\bin\Debug\net8.0\RoundTheCode.EFCore.Domain.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\bin\Debug\net8.0\RoundTheCode.EFCore.Domain.pdb
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.csproj.AssemblyReference.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.AssemblyInfoInputs.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.AssemblyInfo.cs
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.csproj.CoreCompileInputs.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundThe.01AFF2E2.Up2Date
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\refint\RoundTheCode.EFCore.Application.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\RoundTheCode.EFCore.Application.pdb
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EfCode.Application\obj\Debug\net8.0\ref\RoundTheCode.EFCore.Application.dll

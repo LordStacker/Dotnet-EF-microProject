@@ -1,0 +1,14 @@
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.AssemblyInfo.cs
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\bin\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.deps.json
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\bin\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.runtimeconfig.json
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\bin\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\bin\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.pdb
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\refint\RoundTheCode.EFCorde.Infrastructure.dll
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.pdb
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCorde.Infrastructure.genruntimeconfig.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\ref\RoundTheCode.EFCorde.Infrastructure.dll

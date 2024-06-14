@@ -1,0 +1,5 @@
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCode.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCode.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCode.Infrastructure.AssemblyInfo.cs
+C:\Users\NIEM-ADM-AAD\source\repos\RoundTheCode.EFCode\RoundTheCode.EFCorde.Infrastructure\obj\Debug\net8.0\RoundTheCode.EFCode.Infrastructure.csproj.CoreCompileInputs.cache
